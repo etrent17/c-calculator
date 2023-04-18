@@ -1,0 +1,15 @@
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.csproj.AssemblyReference.cache
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.AssemblyInfoInputs.cache
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.AssemblyInfo.cs
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Elijah\Documents\github\c-calculator\bin\Debug\net7.0\c-calculator.exe
+C:\Users\Elijah\Documents\github\c-calculator\bin\Debug\net7.0\c-calculator.deps.json
+C:\Users\Elijah\Documents\github\c-calculator\bin\Debug\net7.0\c-calculator.runtimeconfig.json
+C:\Users\Elijah\Documents\github\c-calculator\bin\Debug\net7.0\c-calculator.dll
+C:\Users\Elijah\Documents\github\c-calculator\bin\Debug\net7.0\c-calculator.pdb
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.dll
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\refint\c-calculator.dll
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.pdb
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\c-calculator.genruntimeconfig.cache
+C:\Users\Elijah\Documents\github\c-calculator\obj\Debug\net7.0\ref\c-calculator.dll
